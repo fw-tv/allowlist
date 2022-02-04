@@ -1,5 +1,25 @@
 # allowlist
 
+Embed code:
+
+```javascript
+<fw-embed-feed
+  channel="footokyo"
+  playlist="gY84Oo"
+  mode="row"
+  open_in="default"
+  max_videos="0"
+  placement="middle"
+  player_placement="bottom-right"
+>
+  <a href="https://fw-tv.github.io/allowlist/" target="_blank">
+    Allow Firework video for this website
+  </a>
+</fw-embed-feed>
+```
+
+Javascript popup:
+
 ```javascript
 var e = (window.screen.width - 480) / 2,
   a = (window.screen.height - 400) / 2;
