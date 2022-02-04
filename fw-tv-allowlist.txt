@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: Firework Video Platform
+! Expires: 2 days (update frequency)
+! Homepage: https://firework.com/
+! Firework
+@@||api.fw.tv^
+@@||fwcdn1.com/js/fwn.js
+@@||fwcdn1.com/js/storyblock.js
+@@||fwcdn2.com^$third-party
