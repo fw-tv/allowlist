@@ -13,7 +13,7 @@ Embed code:
   player_placement="bottom-right"
 >
   <a href="https://fw-tv.github.io/allowlist/" target="_blank">
-    Allow Firework video for this website
+    Allow Firework for this website
   </a>
 </fw-embed-feed>
 ```

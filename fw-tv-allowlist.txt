@@ -7,3 +7,7 @@
 @@||fwcdn1.com/js/fwn.js
 @@||fwcdn1.com/js/storyblock.js
 @@||fwcdn2.com^$third-party
+@@||fireworktv.com^$third-party
+@@||fireworkapi.com^$third-party
+@@||fireworkadservices.com^$third-party
+@@||fireworkapi.com^$third-party
