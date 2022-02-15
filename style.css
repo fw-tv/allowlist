@@ -25,7 +25,7 @@ a:hover {
 .content {
   margin: 0px auto;
   padding: 0px 10px;
-  max-width: 370px;
+  max-width: 430px;
   text-align: center;
 }
 
@@ -37,11 +37,17 @@ a:hover {
 .headerText {
   color: #404040;
   margin-top: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
 }
 
 .subText {
-  color: #404040;
+  color: #616161;
   margin: 5px auto 28px;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
 }
 
 .button {
@@ -70,7 +76,7 @@ a:hover {
 }
 
 .button:focus {
-  background-color: #aa420b; /* main700 */
+  background-color: #63a4ff; /* main700 */
 }
 
 .disabled {
